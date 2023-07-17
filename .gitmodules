@@ -1,0 +1,12 @@
+[submodule "alura-food-server"]
+	path = alura-food-server
+	url = https://github.com/GeanMilhore/alura-food-server
+[submodule "alura-food-gateway"]
+	path = alura-food-gateway
+	url = https://github.com/GeanMilhore/alura-food-gateway
+[submodule "pedidos-ms"]
+	path = pedidos-ms
+	url = https://github.com/GeanMilhore/pedidos-ms
+[submodule "pagamentos-ms"]
+	path = pagamentos-ms
+	url = https://github.com/GeanMilhore/pagamentos-ms
