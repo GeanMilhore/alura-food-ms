@@ -10,3 +10,6 @@
 [submodule "pagamentos-ms"]
 	path = pagamentos-ms
 	url = https://github.com/GeanMilhore/pagamentos-ms
+[submodule "alura-food-avaliacao"]
+	path = alura-food-avaliacao
+	url = https://github.com/GeanMilhore/alura-food-avaliacao
